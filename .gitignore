@@ -1,2 +1,18 @@
-package-lock.json;
+# .gitignore
+node_modules/
+
 package.json
+package-lock.json# .gitignore
+node_modules/
+package.json
+package-lock.json
+*.env
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.git*
